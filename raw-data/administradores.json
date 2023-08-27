@@ -1,0 +1,23 @@
+[
+    {
+      "id":"1",
+      "nombre":"Juan",
+      "apellido":"Perez",
+      "correo":"jp@admin.com",
+      "contrasena":"1234"
+    },
+    {
+      "id":"2",
+      "nombre":"Maria",
+      "apellido":"Lopez",
+      "correo":"ml@admin.com",
+      "contrasena":"1234"
+    },
+    {
+      "id":"3",
+      "nombre":"Pedro",
+      "apellido":"Gonzalez",
+      "correo":"pg@admin.com",
+      "contrasena":"1234"
+    }
+  ]

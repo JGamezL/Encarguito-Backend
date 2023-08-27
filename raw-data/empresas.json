@@ -1,0 +1,23 @@
+[
+    {
+      "id":1,
+      "nombreEmpresa":"Empresa 1",
+      "nombreContacto":"Contacto 1",
+      "telefono":"123456789",
+      "direccion":"Calle 1"
+    },
+    {
+      "id":2,
+      "nombreEmpresa":"Empresa 2",
+      "nombreContacto":"Contacto 2",
+      "telefono":"123456789",
+      "direccion":"Calle 2"
+    },
+    {
+      "id":3,
+      "nombreEmpresa":"Empresa 3",
+      "nombreContacto":"Contacto 3",
+      "telefono":"123456789",
+      "direccion":"Calle 3"
+    }
+  ]

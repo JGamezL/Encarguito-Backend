@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "correo": "juanperez123@gmail.com",
+        "contrasena": "1234",
+        "telefono": "12345678",
+        "direccion": "Calle 1",
+        "productosCarrito": [
+            {
+                "idProducto": 1
+            },
+            {
+                "idProducto": 2
+            }
+        ],
+        "ordenes": [
+            {
+                "idOrden": 1
+            },
+            {
+                "idOrden": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Maria",
+        "apellido": "Lopez",
+        "correo": "marialopez123@gmail.com",
+        "contrasena": "1234",
+        "telefono": "12345678",
+        "direccion": "Calle 2",
+        "productosCarrito": [
+            {
+                "idProducto": 1
+            },
+            {
+                "idProducto": 2
+            }
+        ],
+        "ordenes": [
+            {
+                "idOrden": 3
+            },
+            {
+                "idOrden": 4
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Pedro",
+        "apellido": "Gonzalez",
+        "correo": "pedrogonzalez123@gmail.com",
+        "contrasena": "1234",
+        "telefono": "12345678",
+        "direccion": "Calle 3",
+        "productosCarrito": [
+            {
+                "idProducto": 1
+            },
+            {
+                "idProducto": 2
+            }
+        ],
+        "ordenes": [
+            {
+                "idOrden": 5
+            },
+            {
+                "idOrden": 6
+            }
+        ]
+    }
+]

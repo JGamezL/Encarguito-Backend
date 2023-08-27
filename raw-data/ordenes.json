@@ -1,0 +1,102 @@
+[
+    {
+      "id":1,
+      "nombre":"Juan",
+      "apellido":"Perez",
+      "telefono":"8888-8888",
+      "descripcion":"Orden 1",
+      "direccion":"San Salvador",
+      "estado":"Pendiente",
+      "fecha":"2020-10-10",
+      "precio": "1000",
+      "hora":"10:00",
+      "productos":[
+        {
+          "idProducto": 1
+        },
+        {
+          "idProducto": 2
+        }
+      ]
+    },
+    {
+      "id":2,
+      "nombre":"Maria",
+      "apellido":"Lopez",
+      "telefono":"7777-7777",
+      "descripcion":"Orden 2",
+      "direccion":"San Salvador",
+      "estado":"Pendiente",
+      "fecha":"2020-10-10",
+      "precio": "1000",
+      "hora":"10:00",
+      "productos":[
+        {
+          "idProducto": 1
+        },
+        {
+          "idProducto": 2
+        }
+      ]
+    },
+    {
+      "id":3,
+      "nombre":"Pedro",
+      "apellido":"Garcia",
+      "telefono":"6666-6666",
+      "descripcion":"Orden 3",
+      "direccion":"San Salvador",
+      "estado":"Pendiente",
+      "fecha":"2020-10-10",
+      "precio": "1000",
+      "hora":"10:00",
+      "productos":[
+        {
+          "idProducto": 1
+        },
+        {
+          "idProducto": 2
+        }
+      ]
+    },
+    {
+      "id":4,
+      "nombre":"Diana",
+      "apellido":"Duron",
+      "telefono":"8888-8888",
+      "descripcion":"Orden 4",
+      "direccion":"San Salvador",
+      "estado":"En proceso",
+      "fecha":"2020-10-10",
+      "precio": "1000",
+      "hora":"10:00",
+      "productos":[
+        {
+          "idProducto": 1
+        },
+        {
+          "idProducto": 2
+        }
+      ]
+    },
+    {
+      "id":5,
+      "nombre":"Maria",
+      "apellido":"Lopez",
+      "telefono":"7777-7777",
+      "descripcion":"Orden 5",
+      "direccion":"San Salvador",
+      "estado":"Finalizada",
+      "fecha":"2020-10-10",
+      "precio": "1000",
+      "hora":"10:00",
+      "productos":[
+        {
+          "idProducto": 1
+        },
+        {
+          "idProducto": 2
+        }
+      ]
+    }
+  ]
